@@ -1,0 +1,2 @@
+E:\SMA\DllLoaderDemo\DllLoaderDemoExec\bin\Debug\DllLoaderDemoExec.exe.config
+E:\SMA\DllLoaderDemo\DllLoaderDemoExec\obj\Debug\DllLoaderDemoExec.csprojResolveAssemblyReference.cache

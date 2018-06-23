@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TestRequest>
+  <author>Sarath Patlolla</author>
+  <tests>
+    <TestElement>
+      <testName>Test1</testName>
+      <testDriver>
+        <TestName>
+          <testName>TestDriver.dll</testName>
+        </TestName>
+      </testDriver>
+      <testCodes>
+        <TestName>
+          <testName>TestedOne.dll</testName>
+        </TestName>
+        <TestName>
+          <testName>TestedTwo.dll</testName>
+        </TestName>
+      </testCodes>
+    </TestElement>
+  </tests>
+</TestRequest>

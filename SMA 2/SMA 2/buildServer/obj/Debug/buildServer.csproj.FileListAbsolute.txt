@@ -1,0 +1,28 @@
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\obj\Debug\buildServer.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\buildServer.exe.config
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\buildServer.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\buildServer.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\repoMock.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\testRequest.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\repoMock.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\testRequest.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\obj\Debug\buildServer.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildServer\obj\Debug\buildServer.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\obj\Debug\buildServer.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\buildServer.exe.config
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\buildServer.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\buildServer.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\repoMock.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\testRequest.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\repoMock.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\testRequest.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\obj\Debug\buildServer.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildServer\obj\Debug\buildServer.pdb

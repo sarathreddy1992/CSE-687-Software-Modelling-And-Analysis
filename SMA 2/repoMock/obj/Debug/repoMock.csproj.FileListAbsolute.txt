@@ -1,0 +1,40 @@
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\obj\Debug\repoMock.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\repoMock.exe.config
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\repoMock.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\repoMock.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\Client.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\Client.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\obj\Debug\repoMock.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\repoMock\obj\Debug\repoMock.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\repoMock.exe.config
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\repoMock.exe
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\repoMock.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\Client.exe
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\Client.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\obj\Debug\repoMock.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\obj\Debug\repoMock.exe
+C:\Users\sarath reddy\Desktop\SMA 2\repoMock\obj\Debug\repoMock.pdb
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\repoMock.exe.config
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\repoMock.exe
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\repoMock.pdb
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\buildRequest.exe
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\Client.exe
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\TestDeserialization.exe
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\buildRequest.pdb
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\buildRequest.exe.config
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\Client.pdb
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\Client.exe.config
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\TestDeserialization.pdb
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\bin\Debug\TestDeserialization.exe.config
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\obj\Debug\repoMock.csprojResolveAssemblyReference.cache
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\obj\Debug\repoMock.csproj.CoreCompileInputs.cache
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\obj\Debug\repoMock.exe
+E:\2ndSem\Second_sem\Sma\SmaProject2\SMA 2\repoMock\obj\Debug\repoMock.pdb

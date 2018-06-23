@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-16"?>
+<buildRequest>
+  <author>Sarath Patlolla</author>
+  <Builds>
+    <buildItems>
+      <buildName>build1</buildName>
+      <driver>
+        <buildName>
+          <fileName>TestDriver.cs</fileName>
+        </buildName>
+      </driver>
+      <sourcefiles>
+        <buildName>
+          <fileName>TestedOne.cs</fileName>
+        </buildName>
+        <buildName>
+          <fileName>TestedTwo.cs</fileName>
+        </buildName>
+      </sourcefiles>
+    </buildItems>
+  </Builds>
+</buildRequest>

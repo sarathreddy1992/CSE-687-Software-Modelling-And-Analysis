@@ -1,0 +1,16 @@
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\bin\Debug\buildRequest.exe.config
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\obj\Debug\buildRequest.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\obj\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\obj\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\buildRequest\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\bin\Debug\buildRequest.exe.config
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\obj\Debug\buildRequest.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\obj\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SMA 2\buildRequest\obj\Debug\buildRequest.pdb

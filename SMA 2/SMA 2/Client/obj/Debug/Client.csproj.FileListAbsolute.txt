@@ -1,0 +1,20 @@
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\Client.exe.config
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\Client.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\Client.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\obj\Debug\Client.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\obj\Debug\Client.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SmaProject2\ProjectBuilder\Client\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\Client.exe.config
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\Client.exe
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\Client.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\buildRequest.exe
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\TestDeserialization.exe
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\buildRequest.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\Client\bin\Debug\TestDeserialization.pdb
+C:\Users\sarath reddy\Desktop\SMA 2\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\sarath reddy\Desktop\SMA 2\Client\obj\Debug\Client.exe
+C:\Users\sarath reddy\Desktop\SMA 2\Client\obj\Debug\Client.pdb
