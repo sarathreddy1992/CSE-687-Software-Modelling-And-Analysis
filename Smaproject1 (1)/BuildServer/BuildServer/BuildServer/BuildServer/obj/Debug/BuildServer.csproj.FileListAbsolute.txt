@@ -1,0 +1,23 @@
+D:\BuildServer\BuildServer\bin\Debug\BuildServer.exe.config
+D:\BuildServer\BuildServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+D:\BuildServer\BuildServer\bin\Debug\BuildServer.exe
+D:\BuildServer\BuildServer\bin\Debug\BuildServer.pdb
+D:\BuildServer\BuildServer\obj\Debug\BuildServer.exe
+D:\BuildServer\BuildServer\obj\Debug\BuildServer.pdb
+D:\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.exe.config
+D:\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.exe
+D:\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.pdb
+D:\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.exe
+D:\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.pdb
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.exe.config
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.exe
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.pdb
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.exe
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.pdb
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.exe.config
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.exe
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.pdb
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.exe
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\BuildServer\bin\Debug\BuildServer.pdb
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\BuildServer\BuildServer\obj\Debug\BuildServer.csprojResolveAssemblyReference.cache

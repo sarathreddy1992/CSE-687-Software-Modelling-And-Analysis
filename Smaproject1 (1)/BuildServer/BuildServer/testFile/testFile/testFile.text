@@ -1,0 +1,22 @@
+Build started 30-09-2017 14:20:36.
+__________________________________________________
+Project "E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\testFile.csproj" (Build target(s)):
+
+Target PrepareForBuild:
+    Creating directory "bin\Debug\".
+Target GenerateTargetFrameworkMonikerAttribute:
+  Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+Target CoreCompile:
+    C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /platform:anycpu32bitpreferred /errorreport:prompt /warn:4 /define:DEBUG;TRACE /highentropyva+ /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Microsoft.CSharp.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Core.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.DataSetExtensions.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Net.Http.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /reference:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.Linq.dll" /debug+ /debug:full /filealign:512 /optimize- /out:obj\Debug\testFile.exe /subsystemversion:6.00 /target:exe /utf8output Program.cs Properties\AssemblyInfo.cs "C:\Users\sarath reddy\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs"
+Target _CopyAppConfigFile:
+    Copying file from "App.config" to "bin\Debug\testFile.exe.config".
+Target CopyFilesToOutputDirectory:
+    Copying file from "obj\Debug\testFile.exe" to "bin\Debug\testFile.exe".
+    testFile -> E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\bin\Debug\testFile.exe
+    Copying file from "obj\Debug\testFile.pdb" to "bin\Debug\testFile.pdb".
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.63

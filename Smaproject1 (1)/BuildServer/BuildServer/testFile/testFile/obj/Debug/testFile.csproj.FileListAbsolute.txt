@@ -1,0 +1,17 @@
+D:\BuildServer\testFile\testFile\bin\Debug\testFile.exe.config
+D:\BuildServer\testFile\testFile\bin\Debug\testFile.exe
+D:\BuildServer\testFile\testFile\bin\Debug\testFile.pdb
+D:\BuildServer\testFile\testFile\obj\Debug\testFile.exe
+D:\BuildServer\testFile\testFile\obj\Debug\testFile.pdb
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\testFile\testFile\bin\Debug\testFile.exe.config
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\testFile\testFile\obj\Debug\testFile.exe
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\testFile\testFile\obj\Debug\testFile.pdb
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\testFile\testFile\bin\Debug\testFile.exe
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\testFile\testFile\bin\Debug\testFile.pdb
+C:\Users\sarath reddy\Desktop\Smaproject1 (1)\BuildServer\testFile\testFile\obj\Debug\testFile.csprojResolveAssemblyReference.cache
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\bin\Debug\testFile.exe.config
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\bin\Debug\testFile.exe
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\bin\Debug\testFile.pdb
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\obj\Debug\testFile.csprojResolveAssemblyReference.cache
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\obj\Debug\testFile.exe
+E:\2ndSem\Second_sem\Sma\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\Smaproject1 (1)\BuildServer\BuildServer\testFile\testFile\obj\Debug\testFile.pdb
